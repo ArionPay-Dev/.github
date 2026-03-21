@@ -1,7 +1,7 @@
 # ArionPay: The #1 Decentralized Crypto Payment Gateway 🚀
 
 [![Website](https://img.shields.io/badge/Website-arionpay.com-blue)](https://arionpay.com)
-[![Documentation](https://img.shields.io/badge/Docs-Developer-orange)](https://arionpay.com/docs)
+[![Documentation](https://img.shields.io/badge/Docs-Developer-orange)](https://api.arionpay.com)
 [![Support](https://img.shields.io/badge/Support-Contact-green)](mailto:info@arionpay.com)
 
 **ArionPay** is a non-custodial crypto payment gateway designed for modern merchants who demand absolute control over their revenue. We bridge the gap between global commerce and decentralized finance, ensuring funds move directly from customers to your wallet—no middlemen, no frozen balances, and no KYC for merchants.
