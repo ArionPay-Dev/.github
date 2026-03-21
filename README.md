@@ -25,7 +25,6 @@ We provide ready-to-use plugins for the world's leading e-commerce and billing p
 ### 💻 Developer Resources
 Building something custom? Use our robust API to integrate ArionPay into any stack.
 - [API Documentation](https://arionpay.com/docs)
-- [PHP SDK](https://github.com/Arionpay-Official/paymento-php-sdk) *(Update this link after transferring)*
 - [Integration Guide](https://arionpay.com/integrations)
 
 ---
