@@ -35,6 +35,7 @@
 | Joomla VirtueMart | [arionpay-virtuemart](https://github.com/ArionPay-Dev/arionpay-virtuemart) |
 | Easy Digital Downloads | [arionpay-edd](https://github.com/ArionPay-Dev/arionpay-edd) |
 | Odoo 17 – 20 | [arionpay-odoo](https://github.com/ArionPay-Dev/arionpay-odoo) |
+| HikaShop (Joomla) | [arionpay-hikashop](https://github.com/ArionPay-Dev/arionpay-hikashop) |
 
 ### 🖥️ Hosting and billing
 
@@ -53,6 +54,7 @@
 | LifterLMS | [arionpay-lifterlms](https://github.com/ArionPay-Dev/arionpay-lifterlms) |
 | Tutor LMS | [arionpay-tutor-lms](https://github.com/ArionPay-Dev/arionpay-tutor-lms) |
 | GiveWP | [arionpay-givewp](https://github.com/ArionPay-Dev/arionpay-givewp) |
+| Charitable | [arionpay-charitable](https://github.com/ArionPay-Dev/arionpay-charitable) |
 | WordPress "Pay with crypto" buttons | [arionpay-wp-buttons](https://github.com/ArionPay-Dev/arionpay-wp-buttons) |
 
 ### 🧑‍💻 Developer libraries
