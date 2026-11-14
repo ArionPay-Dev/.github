@@ -36,6 +36,7 @@
 | Easy Digital Downloads | [arionpay-edd](https://github.com/ArionPay-Dev/arionpay-edd) |
 | Odoo 17 – 20 | [arionpay-odoo](https://github.com/ArionPay-Dev/arionpay-odoo) |
 | HikaShop (Joomla) | [arionpay-hikashop](https://github.com/ArionPay-Dev/arionpay-hikashop) |
+| Medusa 2 | [arionpay-medusa](https://github.com/ArionPay-Dev/arionpay-medusa) |
 
 ### 🖥️ Hosting and billing
 
