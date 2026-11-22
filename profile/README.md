@@ -75,6 +75,7 @@
 
 | Tool | Repository |
 | --- | --- |
+| AI assistants: MCP server for Claude, Cursor, VS Code | [arionpay-mcp](https://github.com/ArionPay-Dev/arionpay-mcp) |
 | n8n (community node + trigger) | [n8n-nodes-arionpay](https://github.com/ArionPay-Dev/n8n-nodes-arionpay) |
 | Telegram shop bot | [arionpay-telegram-bot](https://github.com/ArionPay-Dev/arionpay-telegram-bot) |
 | Discord shop bot | [arionpay-discord-bot](https://github.com/ArionPay-Dev/arionpay-discord-bot) |
